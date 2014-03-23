@@ -13,6 +13,8 @@ set hls
 set helplang=cn
 set incsearch
 
+filetype plugin indent on
+
 noremap <C-J> <C-W>j
 noremap <C-K> <C-W>k
 noremap <C-H> <C-W>h
