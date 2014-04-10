@@ -1,4 +1,0 @@
-Install
-    git clone git@github.com:imay/dotvim.git 
-Make Link
-    link -s ~/.vim/vimrc ~/.vimrc
